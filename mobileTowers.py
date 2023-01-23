@@ -8,7 +8,7 @@ The company wants you to provide them with a summarized list of areas that are c
 For example, if the data is [[1, 3], [3, 5], [10, 15]], we can combine [1, 3], [3, 5] and provide a summarized list as [[1, 5], [10, 15]].
 
 Write a program that reads the number of mobile towers N, start points and end points of the mobile towers, and prints the summarized list 
-of areas under coverage by combining the common areas.
+of areas under coverage by combining the common areas. 
 
 """
 
